@@ -121,6 +121,7 @@ align-items: center;
     outline: none;
     border: none;
     border-radius: 4px;
+    text-decoration: none;
 
 }
 .sign-up__btn:hover{
